@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701931886 source:c:\users\bright-sys13\desktop\aibatch01\project\operatorsexample\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701933084 source:z:\aibatch01\project\old\operatorsexample\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703920132 source:z:\operatorsexamplewithscanf\operatorsexamplewithscanf\main.c
+	<stdio.h>
+	<stdlib.h>
+
