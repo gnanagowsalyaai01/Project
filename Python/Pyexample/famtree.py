@@ -30,7 +30,7 @@ class alagiri(grandparents):
   
 
     def thank(self):
-        print("Hai!....Grandpa" ,self.grandfathername ,"and Grandma", self.grandmothername ,"We" , self.fathername, "and" ,self.mothername,  " thank you for warm welcome to our " , self.familyname, "family")
+        print(" Hai!....Grandpa" ,self.grandfathername ,"and Grandma", self.grandmothername ,"We" , self.fathername, "and" ,self.mothername,  " thank you for warm welcome to our " , self.familyname, "family")
 
 x=alagiri("Karunanidhi","Dayalu ammal", "DMK","Alagiri", "Kanthi Alagiri")
 x.welcome()

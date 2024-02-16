@@ -1,5 +1,4 @@
 from tkinter import *
-
 app=Tk()
 app.title("Arithmatic operators")
 app.geometry("500x500+100+500")
